@@ -1,0 +1,19 @@
+{
+  "name": "guide.ctrlwiz.com",
+  "version": "0.0.1",
+  "description": "Use an xbox controller with Revit and Navisworks",
+  "main": "index.js",
+  "authors": {
+    "name": "Daniel Soliman",
+    "email": "dsoliman@robinsmorton.com"
+  },
+  "repository": "/guide.ctrlwiz.com",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
